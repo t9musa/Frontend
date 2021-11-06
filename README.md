@@ -1,3 +1,10 @@
+#Errors with digital envelope routines:
+
+
+https://stackoverflow.com/questions/69692842/error0308010cdigital-envelope-routinesunsupported
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
